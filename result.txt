@@ -1,0 +1,100 @@
+Caso 1: Paradas -> 7 15
+Caso 2: Paradas -> 10 21 29
+Caso 3: Paradas -> 8 13 21 30
+Caso 4: Paradas -> 7 19 29 41
+Caso 5: Paradas -> 7 13 19 23 29
+Caso 6: Paradas -> 4 8 12 16
+Caso 7: Paradas -> 13
+Caso 8: Paradas -> 14 24
+Caso 9: Paradas -> 3 21 34
+Caso 10: Paradas -> 15 36
+Caso 11: Paradas -> 5 11 17 20 27 31 39 43
+Caso 12: Paradas -> 17 34
+Caso 13: Paradas -> 5 11
+Caso 14: Paradas -> 16 23
+Caso 15: Paradas -> 10 19
+Caso 16: Paradas -> 15 38
+Caso 17: Paradas -> 7 19
+Caso 18: Paradas -> 7 13 20 27 33 36 42 44 51 58
+Caso 19: Paradas -> 15 23 38 45
+Caso 20: Paradas -> 8 17
+Caso 21: Paradas -> 3 10 15 23 29 37 45 52 54
+Caso 22: Paradas -> 1 10 19
+Caso 23: Paradas -> 7 14 23 32 34
+Caso 24: Paradas -> 13 18
+Caso 25: Paradas -> 14 21
+Caso 26: Paradas -> 12 27
+Caso 27: Paradas -> 8 23 31
+Caso 28: Paradas -> 9 22 30
+Caso 29: Paradas -> 6 28 34
+Caso 30: Paradas -> 23 38
+Caso 31: Paradas -> 5 8 12 15 21 25
+Caso 32: Paradas -> 19 27
+Caso 33: Paradas -> 6 13 20 25 32 36 43
+Caso 34: Paradas -> 7 12
+Caso 35: Paradas -> 5 14 25
+Caso 36: Paradas -> 6 13 20 25 30
+Caso 37: Paradas -> 4 8 12 17 21 25 30 31
+Caso 38: Paradas -> 12
+Caso 39: Paradas -> 10 17 28 34 45
+Caso 40: Paradas -> 7 14
+Caso 41: Paradas -> 10 17 23 29 36 43
+Caso 42: Paradas -> 5
+Caso 43: Paradas -> 3 12
+Caso 44: Paradas -> 15
+Caso 45: Paradas -> 7 14 21 27 31 36
+Caso 46: Paradas -> 5 10 16
+Caso 47: Paradas -> 13 37
+Caso 48: Paradas -> 5 6 11
+Caso 49: Paradas -> 16 28 39
+Caso 50: Paradas -> 7 13 17 23 31 38 44
+Caso 51: Paradas -> 3 15 17 28 31
+Caso 52: Paradas -> 5 10 15 20 26 30 36 42
+Caso 53: Paradas -> 5 16 25 30 41 52
+Caso 54: Paradas -> 8 16
+Caso 55: Paradas -> 1 15 28 32 46 53
+Caso 56: Paradas -> 7 10 17 23
+Caso 57: Paradas -> 4 11 18
+Caso 58: Paradas -> 3 7 10
+Caso 59: Paradas -> 9 13
+Caso 60: Paradas -> 4
+Caso 61: Paradas -> 13 35 44
+Caso 62: Paradas -> 8 17 28 33 44
+Caso 63: Paradas -> 7 12
+Caso 64: Paradas -> 3 16 25 37
+Caso 65: Paradas -> 8 16
+Caso 66: Paradas -> 7 17 26 29 40 51
+Caso 67: Paradas -> 7 22 37
+Caso 68: Paradas -> 5 11 14 18 23 28 30
+Caso 69: Paradas -> 5 10 13
+Caso 70: Paradas -> 2 8 13
+Caso 71: Paradas -> 5 16
+Caso 72: Paradas -> 4 9 12 16
+Caso 73: Paradas -> 4 14 19 26
+Caso 74: Paradas -> 11
+Caso 75: Paradas -> 4 10 16 22 27
+Caso 76: Paradas -> 10 20 27 34 41 48 55
+Caso 77: Paradas -> 2 14 22 29
+Caso 78: Paradas -> 3 9 14 18
+Caso 79: Paradas -> 7 13
+Caso 80: Paradas -> 8
+Caso 81: Paradas -> 5 10 14 18
+Caso 82: Paradas -> 16 26
+Caso 83: Paradas -> 18 32
+Caso 84: Paradas -> 9 13
+Caso 85: Paradas -> 5 11 20 25 35 44
+Caso 86: Paradas -> 8 27
+Caso 87: Paradas -> 3 9 13
+Caso 88: Paradas -> 4 16
+Caso 89: Paradas -> 6 19 24
+Caso 90: Paradas -> 24 36
+Caso 91: Paradas -> 8 14
+Caso 92: Paradas -> 15 31 46
+Caso 93: Paradas -> 7 17 22
+Caso 94: Paradas -> 8 16 21 30 35 43
+Caso 95: Paradas -> 18 37
+Caso 96: Paradas -> 7 14 22 26
+Caso 97: Paradas -> 8 18 24 31 39 47 53
+Caso 98: Paradas -> 13 20
+Caso 99: Paradas -> 4 10 16 18 23 28 34 40 41 47 50 54
+Caso 100: Paradas -> 17 36
